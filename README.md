@@ -76,5 +76,7 @@ http://192.168.0.12/news/admin/add-subadmins.php
 
 ## Discovered By
 
-* Mo Asim
+* **Mo Asim** also known as **Asim Qazi**
 * Github: @Asim-Qazi
+* Linkedin: [Asim Qazi](https://www.linkedin.com/in/masimqazi)
+* Student | Security Researcher
