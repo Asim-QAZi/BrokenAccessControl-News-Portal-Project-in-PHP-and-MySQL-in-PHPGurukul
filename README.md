@@ -1,3 +1,4 @@
+# CVE-2026-1141
 ## Broken Access Control – Privilege Escalation in News Portal Project in PHP and MySql in PHPGurukul
 
 **Application:** News Portal Project (PHPGurukul)
